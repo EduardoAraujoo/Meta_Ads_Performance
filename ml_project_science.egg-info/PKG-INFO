@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: ml_project_science
+Version: 0.0.1
+Author: Marketing Science Architect
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: flask
+Requires-Dist: dill
+Dynamic: author
+Dynamic: requires-dist
