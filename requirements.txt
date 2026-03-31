@@ -7,4 +7,5 @@ catboost
 xgboost
 flask
 dill
+statsmodels==0.14.2
 -e .
